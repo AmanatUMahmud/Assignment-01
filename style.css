@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.top-part {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.top-part img {
+    width: 1023px;
+    height: 500px;
+    opacity: 0.8;
+}
+
+.top-part .elem {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.elem a {
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+    padding: 5px 10px;
+}
+
+.elem span {
+    font-weight: bolder;
+    font-size: 20px;
+}
