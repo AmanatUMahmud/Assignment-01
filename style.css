@@ -113,6 +113,20 @@ body {
     width: 40%;
     margin-left: 70px;
 }
+.bottom-stories {
+    margin-top: 50px;
+    display: flex;
+    position: relative;
+    text-align: center;
+    color: black;
+}
+.bottom-stories img{
+    width: 40%;
+    margin-left: 70px;
+}
+.projects a{
+    margin-left: 460px;
+}
 .update input {
     padding-right: 50px;
     padding-top: 10px;
