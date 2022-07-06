@@ -22,7 +22,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.elem a {
+.btn{
     text-decoration: none;
     color: white;
     background-color: brown;
@@ -32,4 +32,36 @@ body {
 .elem span {
     font-weight: bolder;
     font-size: 20px;
+}
+.donate-today{
+    margin-top:80px;
+}
+.donate-today h1{
+    text-align: center;
+}
+.donate-today p{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.donate-today h2{
+    display: inline;
+    background-color: rgba(128,128,128,0.2);
+    /* border: 10px solid rgba(128,128,128,0.2); */
+    padding: 20px;
+    margin-left: 10px;
+}
+#first-h2{
+    margin-left: 150px;
+}
+#selected-h2{
+    background-color: rgba(128,0,0,0.5);
+}
+#otramnt{
+    margin-left: 423px;
+    border: none;
+}
+.donate-today a{
+    /* margin-top: 300px; */
+    margin-left: 422px;
 }
